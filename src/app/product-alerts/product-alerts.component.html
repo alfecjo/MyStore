@@ -1,0 +1,13 @@
+<!-- o snipped foi injetado no componente pai, ou seja, o ponteiro de prg
+  vêm lá do pai, executa a clausula if ou não e retorna para o pai. Contudo,
+  os ouvintes estão ativos durante todo o ciclo! -->
+
+<!-- aqui, o botão só aparece se o valor for superior ao valor na
+condição da cláusula if.-->
+
+<!--caso o botão apareça e receba um click, o notify(), por ser uma instância 
+de EventEmiter, já faz uso do método emiter, notificando o pai que este evento click
+foi disparado. O pai, por sua vez, ... *01* -->
+<p *ngIf="product && product.price > 700">
+  <button type="button" (click)="notify.emit()">Notify Me</button>
+</p>

@@ -1,8 +1,20 @@
 <h2>Products</h2>
+<div *ngFor="let product of products">
+  <h3>
+    <a
+      [title]="product.name + ' details'"
+      [routerLink]="['/products', product.id]"
+    >
+      {{ product.name }}
+    </a>
+  </h3>
+  <p *ngIf="product.description">Description: {{ product.description }}</p>
+  <button type="button" (click)="share()">Share</button>
 
+  <!-- product_pai (possui aspas dulas), product_filho (incorpora na declaração um dada binding unidirecional). product_filho é a propriedade declarada no componente filho através de input, desta forma, é ela que receberá dados enviados pela igualdade product_pai em:
+  [product]="product"-->
 
-<!-- 
-Copyright Google LLC. All Rights Reserved.
-Use of this source code is governed by an MIT-style license that
-can be found in the LICENSE file at https://angular.io/license
--->
+  <!-- *01*... é avisado do click através de notify, o qual fica escutando o evento lá do filho e chama onNotify(), que é o responsável por exibir o dialogbox relacionado.-->
+  <app-product-alerts [product]="product" (notify)="onNotify()">
+  </app-product-alerts>
+</div>
