@@ -1,12 +1,12 @@
-# MyStore API
+# MyStore API (FrameWorks Java - front-end)
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/1wz4z6)
 
-# MyStore API foi connstruido por solicitação da disciplinna de Frameworks no Curso de Pós graduação em Tecnologia Java para avaliação!
+# MyStore API. It was built at the request of the Frameworks discipline in the Postgraduate Course in Java Technology for evaluation. Angular front-end module!!
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-Only the front-end is available here, but the complete project uses the following technologies: **Java, Java Spring, Flyway Migrations, PostgresSQL as the database, and Spring Security and JWT for authentication control.**
+🎉 Only the front-end is available here, but the complete project uses the following technologies: **Java, Java Spring, Flyway Migrations, PostgresSQL as the database, and Spring Security and JWT for authentication control.**
 
 # In the future:
 
