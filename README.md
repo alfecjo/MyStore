@@ -2,7 +2,7 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/1wz4z6)
 
-# MyStore API. It was built at the request of the Frameworks discipline in the Postgraduate Course in Java Technology for evaluation. Angular front-end module!!
+## MyStore API. It was built at the request of the Frameworks discipline in the Postgraduate Course in Java Technology for evaluation. Angular front-end module!!
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
@@ -28,7 +28,7 @@
 1. Clone the repository:
 
 ```bash
-git clone (https://github.com/alfecjo/MyStore.git)
+git clone https://github.com/alfecjo/MyStore.git
 ```
 
 Implement: npm install
