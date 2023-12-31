@@ -25,7 +25,7 @@
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository or download the .zip file:
 
 ```bash
 git clone https://github.com/alfecjo/MyStore.git
