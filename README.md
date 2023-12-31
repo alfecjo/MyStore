@@ -31,11 +31,10 @@
 git clone https://github.com/alfecjo/MyStore.git
 ```
 
-Implement: npm install
-
 ## Usage
 
-1. Start the application: ng s -o
+1. Implement: npm install
+2. Start the application: ng s -o
 
 ## Contributing
 
