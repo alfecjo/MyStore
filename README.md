@@ -1,4 +1,4 @@
-# Frameworks Web
+# ☕ Frameworks Web
 ![Angular](Angular.jpg)
 
 ### MyStore API (front-end)
