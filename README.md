@@ -1,13 +1,12 @@
 # Frameworks Web
 ![Angular](Angular.jpg)
 
-## Este material foi desenvolvido em resposta a disciplina Java 'Frameworks Web', a qual faz parte do curso de Pós Graduação em Tecnologia Java, ministrado pela Universidade Tecnológica Federal do Paraná.
-
 ### MyStore API (front-end)
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/1wz4z6)
 
 ### MyStore API. It was built at the request of the Frameworks discipline in the Postgraduate Course in Java Technology for evaluation. Angular front-end module!!
+### Este material foi desenvolvido em resposta a disciplina Java 'Frameworks Web', a qual faz parte do curso de Pós Graduação em Tecnologia Java, ministrado pela Universidade Tecnológica Federal do Paraná.
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
