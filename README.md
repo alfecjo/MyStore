@@ -3,7 +3,7 @@
 
 ## Este material foi desenvolvido em resposta a disciplina Java 'Frameworks Web', a qual faz parte do curso de Pós Graduação em Tecnologia Java, ministrado pela Universidade Tecnológica Federal do Paraná.
 
-### MyStore API (FrameWorks Java - front-end)
+### MyStore API (front-end)
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/1wz4z6)
 
