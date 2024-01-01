@@ -1,5 +1,5 @@
 # Frameworks Web
-
+![Angular](./angular.jpg)
 
 ## MyStore API (FrameWorks Java - front-end)
 
